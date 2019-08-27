@@ -3,6 +3,7 @@ svgSprite = require('gulp-svg-sprite'),
 rename = require('gulp-rename'),
 del = require('del');
 
+
 var config = {
   mode: {
     css: {
